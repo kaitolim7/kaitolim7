@@ -25,7 +25,6 @@ webメディアKADAI INFOのレコメンドエンジン(記事の推薦モデル
  <img src="分析1.png" width="250">
  <img src="分析2.png" width="250">
  <img src="分析3.png" width="250">
- <img src="分析4.png" width="250">
 </p>
 
 ## 🏅 Certifications
