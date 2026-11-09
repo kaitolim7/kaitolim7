@@ -20,9 +20,14 @@
 webメディアKADAI INFOのレコメンドエンジン(記事の推薦モデル)の開発
 
 記事のデータ分析も行っています
-![1ページ目](スケジュール管理アプリ分析.png)
-![2ページ目](スケジュール管理アプリ分析(1).png)
-![3ページ目](スケジュール管理アプリ分析(2).png)
+
+<p align="center">
+ <img src="分析1.png" width="250">
+ <img src="分析2.png" width="250">
+ <img src="分析3.png" width="250">
+ <img src="分析4.png" width="250">
+</p>
+
 ## 🏅 Certifications
 
 - IBM Data Science Professional Certificate
