@@ -17,7 +17,7 @@
 - 🤖 機械学習・深層学習・推薦アルゴリズムにも興味があります。。
 
 
-<h2>🔬 Projects & Achievements</h2>
+<h2>🔬 Projects </h2>
 
 <table>
   <tr>
