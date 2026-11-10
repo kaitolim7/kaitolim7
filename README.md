@@ -16,18 +16,30 @@
 - 🧮 数理統計を基礎として、データの背後にある構造や関係性を分析しています。
 - 🤖 機械学習・深層学習・推薦アルゴリズムにも興味があります。。
 
-## 🔬 成果
-webメディアの記事の推薦モデルの開発
-モデル開発の過程について↓
+
+<h2>🔬 Projects & Achievements</h2>
+
+<table>
+  <tr>
+    <td width="55%" valign="middle">
+      <h3>📰 記事推薦モデルの開発</h3>
+      <p>
+        私たちが運営するWebメディア「KADAI INFO」において、
+        ユーザーに適した記事を推薦するモデルの開発に取り組みました。
+      </p>
+      <p>
+        <a href="記事の公開URL">
+          📖 モデル開発の過程を詳しく見る
+        </a>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="rec16.png" width="100%" alt="記事推薦モデルの開発">
+    </td>
+  </tr>
+</table>
 
 
-記事のデータ分析も行っています
-
-<p align="center">
- <img src="分析1.png" width="250">
- <img src="分析2.png" width="250">
- <img src="分析3.png" width="250">
-</p>
 
 ## 🏅 Certifications
 
