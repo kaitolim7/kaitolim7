@@ -1,51 +1,83 @@
+
 ![Profile views](https://komarev.com/ghpvc/?username=kaitolim7&color=blue)
 
-<h1 align="center">こんにちは、kaitolim7です 👋🏻</h1>
+<h1 align="center">Hi there, I'm kaitolim7! 👋🏻</h1>
 
 <p align="center">
-  鹿児島大学で統計学を学んでいます。<br>
-  データから新しい価値や意思決定につながるインサイトを見つけることに興味があります。
+  I'm a student at Kagoshima University, studying mathmatical statistics.<br>
+  I'm passionate about discovering meaningful insights from data
+  and turning them into better decisions and real-world value.
 </p>
 
 ---
 
 ## 👨🏻‍💻 About Me
 
-- 👨🏻‍🎓 鹿児島大学の学生です。九州大学院システム情報科学府に合格しました。
-- 📊 多変量解析を専攻しています。
-- 🧮 数理統計を基礎として、データの背後にある構造や関係性を分析しています。
-- 🤖 機械学習・深層学習・推薦アルゴリズムにも興味があります。。
+- 👨🏻‍🎓 Student at Kagoshima University. Admitted to the Graduate School of Information Science and Electrical Engineering at Kyushu University.
+- 📊 Specializing in Multivariate Analysis.
+- 🧮 Exploring hidden structures and relationships in data through mathematical statistics.
+- 🤖 Interested in Machine Learning, Deep Learning, and Recommendation Algorithms.
 
+---
 
-<h2>🔬 Projects </h2>
+## 🔬 Projects
 
 <table>
   <tr>
     <td width="55%" valign="middle">
-      <h3>📰 記事推薦モデルの開発</h3>
+      <h3>📰 Article Recommendation Model</h3>
       <p>
-        私たちが運営するWebメディア「KADAI INFO」において、
-        ユーザーに適した記事を推薦するモデルの開発に取り組みました。
+        Developed an article recommendation model for
+        KADAI INFO, a web media platform operated by our team,
+        to deliver personalized article recommendations to users.
       </p>
       <p>
         <a href="記事の公開URL">
-          📖 モデル開発の過程を詳しく見る
+          📖 Read More About the Development Process
         </a>
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="rec16.png" width="100%" alt="記事推薦モデルの開発">
+      <img src="rec16.png" width="100%" alt="Article Recommendation Model">
     </td>
   </tr>
 </table>
 
+<h3>📊 Data Analysis</h3>
 
+<p>
+  I also work on analyzing and visualizing article data
+  to uncover patterns and gain actionable insights.
+</p>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="分析1.png" width="100%" alt="Analysis Result 1">
+    </td>
+    <td width="33%" align="center">
+      <img src="分析2.png" width="100%" alt="Analysis Result 2">
+    </td>
+    <td width="33%" align="center">
+      <img src="分析3.png" width="100%" alt="Analysis Result 3">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>📈 KADAI INFO | Article Data Analysis</sub>
+</p>
+
+---
 
 ## 🏅 Certifications
 
 - IBM Data Science Professional Certificate
 
+---
+
 ## 🛠️ Skills
+
 <p>
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
@@ -58,14 +90,15 @@
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </p>
 
-## 🎯 Currently Learning
-
-- 統計モデルと機械学習モデルの理論・実装
-- 脳波分類のモデル開発・投資戦略のモデル開発
-- ユーザーの閲覧履歴から記事を推薦するシステム
-- 高次元かつ複雑な現象分析に有効に機能する解析手法
-- 極値統計学
-- 世界モデル(状態空間モデル)
-
 ---
 
+## 🎯 Currently Learning
+
+- Theoretical foundations and implementation of Statistical and Machine Learning Models
+- EEG Classification Models and Investment Strategy Modeling
+- Personalized Recommendation Systems Based on User Browsing History
+- Advanced Analytical Methods for High-Dimensional and Complex Data
+- Extreme Value Theory (EVT)
+- World Models and State-Space Models
+
+---
