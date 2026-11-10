@@ -32,7 +32,7 @@
         to deliver personalized article recommendations to users.
       </p>
       <p>
-        <a href="記事の公開URL">
+        <a href="https://kadaiinfo.com/posts/rec-model/preview?draftKey=4etC0Jrcs-&token=1ba520f203541cb082bf7a374c790d79b4d0094d071c3ddd981f61848de438fb">
           📖 Read More About the Development Process
         </a>
       </p>
