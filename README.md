@@ -9,7 +9,7 @@
 
 ---
 
-## 🔬 Projects
+## 🔬 Website
 
 <table>
   <tr>
