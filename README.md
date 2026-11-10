@@ -1,16 +1,5 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kaitolim7&color=blue)
-
-<h1 align="center">Hi there, I'm kaitolim7! 👋🏻</h1>
-
-<p align="center">
-  I'm a student at Kagoshima University, studying mathmatical statistics.<br>
-  I'm passionate about discovering meaningful insights from data
-  and turning them into better decisions and real-world value.
-</p>
-
----
-
 ## 👨🏻‍💻 About Me
 
 - 👨🏻‍🎓 Student at Kagoshima University. Admitted to the Graduate School of Information Science and Electrical Engineering at Kyushu University.
