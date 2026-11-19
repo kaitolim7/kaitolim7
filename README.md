@@ -21,6 +21,11 @@
         to deliver personalized article recommendations to users.
       </p>
       <p>
+        Built an MLOps pipeline to periodically collect
+        user browsing history, retrain and evaluate the
+        recommendation model, and deploy updated models.
+      </p>
+      <p>
         <a href="https://kadaiinfo.com/posts/rec-model/preview?draftKey=4etC0Jrcs-&token=1ba520f203541cb082bf7a374c790d79b4d0094d071c3ddd981f61848de438fb">
           📖 Read More About the Development Process
         </a>
@@ -33,10 +38,11 @@
 </table>
 
 <h3>📊 Data Analysis</h3>
-
+  
 <p>
-  I also work on analyzing and visualizing article data
-  to uncover patterns and gain actionable insights.
+  I also analyze and visualize article data to uncover
+  actionable insights and actually drive corporate partnerships
+  and collaborations.
 </p>
 
 <table>
