@@ -4,8 +4,6 @@
 
 - 👨🏻‍🎓 Student at Kagoshima University. Admitted to the Graduate School of Information Science and Electrical Engineering at Kyushu University.
 - 📊 Specializing in Multivariate Analysis.
-- 🧮 Exploring hidden structures and relationships in data through mathematical statistics.
-- 🤖 Interested in Machine Learning, Deep Learning, and Recommendation Algorithms.
 
 ---
 
