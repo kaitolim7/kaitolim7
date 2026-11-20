@@ -21,7 +21,7 @@
         to deliver personalized article recommendations to users.
       </p>
       <p>
-        Built an MLOps pipeline to periodically collect
+        Furthermore, built an MLOps pipeline to periodically collect
         user browsing history, retrain and evaluate the
         recommendation model, and deploy updated models.
       </p>
